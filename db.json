@@ -1,0 +1,9 @@
+{
+  "attendance": [
+    { "id": 1, "present_at": "10.23PM" },
+    { "id": 2, "present_at": "11:30AM", "modified_time": "12:45PM" },
+    { "id": 3, "present_at": "9:60PM" },
+    { "id": 4, "present_at": "12.07PM" }
+  ],
+  "marks": []
+}
